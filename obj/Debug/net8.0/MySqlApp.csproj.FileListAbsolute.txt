@@ -1,0 +1,15 @@
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/bin/Debug/net8.0/MySqlApp
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/bin/Debug/net8.0/MySqlApp.deps.json
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/bin/Debug/net8.0/MySqlApp.runtimeconfig.json
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/bin/Debug/net8.0/MySqlApp.dll
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/bin/Debug/net8.0/MySqlApp.pdb
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.AssemblyInfoInputs.cache
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.AssemblyInfo.cs
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.csproj.CoreCompileInputs.cache
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.dll
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/refint/MySqlApp.dll
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.pdb
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.genruntimeconfig.cache
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/ref/MySqlApp.dll
+/Users/hugobaras/Documents/Epsi/api/dotnet/MySqlApp/obj/Debug/net8.0/MySqlApp.csproj.AssemblyReference.cache
